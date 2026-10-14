@@ -1,3 +1,4 @@
+/*s]
 let nome = "Romulo";
 var sobrenome;
 const pi=3.14857639;
@@ -40,4 +41,12 @@ if(imc<18.5){
     console.log("Obesidade grau 3")
 }
 
-//////switch
+///////// 14/10 //////////
+nome = 'o caba que endoida';
+console.log(nome.split());
+
+let carnes = ["alcatra","molera","cornillos"]
+console.log(carnes)
+console.log(JSON.stringify(carnes));
+array2 = JSON.parse("[\"bla\" , \"bla1\"]");
+*/
